@@ -1,0 +1,3 @@
+[submodule "sova"]
+	path = sova
+	url = git@github.com:Kerby326/sova.git
